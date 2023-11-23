@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Daniel
 
-I am a full stack software engineer, with most of my experience building scalable web applications using ruby on rails and javascript. My knowledge is deep in application development, with related knowledge around infrastructure.
+I am a full stack software engineer, with most of my experience building scalable web applications using ruby on rails and javascript. I've spent most of my career in feature development, consisting of TypeScript, Ruby, and databases.
 
-I am currently chasing down a learning path towards machine learning and AI, in the world of python and wrapping my head around the use of pandas, numpy, and matplotlib, building an app using SEC and ForEx data. Ask me about it!
-
-I am open to work, either fulltime or freelance projects! (You can email me at danielskassen 'at' gmail 'dot' com)
+I am currently pursuing a learning path towards machine learning and AI, in the world of python and wrapping my head around the use of pandas, numpy, and matplotlib, building an app using SEC and ForEx data. Ask me about it!
 <!--
 **dkassen/dkassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
